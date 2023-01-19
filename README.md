@@ -9,3 +9,5 @@ My first steps in the world of analog electronics:
 I created the effect diagram based on the diagram found on the website: https://www.electrosmash.com/boss-ds1-analysis.
 
 All rights to footprints, names, models or symbols belong to their original creators (Boss, SparkFun, M.B.I.)
+
+![alt text](https://github.com/GrzeWiec/BossDS-1-Project/blob/main/BOSS_DS1_Chihuahua.jpg?raw=true)
